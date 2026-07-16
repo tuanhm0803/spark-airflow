@@ -3,3 +3,4 @@ pyspark==3.5.1
 psycopg2-binary==2.9.9
 pandas==2.2.2
 py4j==0.10.9.7
+openpyxl==3.1.5

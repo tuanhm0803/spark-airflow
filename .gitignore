@@ -36,6 +36,7 @@ wheels/
 # Environment variables (keep .env template, ignore local overrides)
 .env.local
 .env.*.local
+secrets.env
 
 # IDE
 .vscode/
@@ -61,6 +62,9 @@ derby.log
 
 # Postgres data
 postgres-data/
+
+# Generated reports
+spark-jobs/output/
 
 # Temporary files
 *.log
